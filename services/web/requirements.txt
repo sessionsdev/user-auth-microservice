@@ -1,0 +1,15 @@
+Werkzeug==0.16.1
+Flask==1.1.1
+Flask-RESTPlus==0.13.0
+Flask-SQLAlchemy==2.4.1
+psycopg2-binary==2.8.4
+pytest==5.3.1
+pytest-cov==2.8.1
+flake8==3.7.9
+black==19.10b0
+isort==4.3.21
+pytest-xdist==1.30.0
+Flask-Admin==1.5.4
+flask-cors==3.0.8
+flask-bcrypt==0.7.1
+pyjwt==1.7.1

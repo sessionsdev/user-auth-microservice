@@ -12,4 +12,4 @@ pytest-xdist==1.30.0
 Flask-Admin==1.5.4
 flask-cors==3.0.8
 flask-bcrypt==0.7.1
-pyjwt==1.7.1
+pyjwt==2.4.0
